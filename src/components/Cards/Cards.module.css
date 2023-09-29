@@ -1,0 +1,9 @@
+.container {
+  margin: 50px ;
+  display: flex;
+    justify-content: center;
+    width: 70%;
+}
+.abc{
+  align-items: center;
+}
